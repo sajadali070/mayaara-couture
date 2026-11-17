@@ -1,0 +1,501 @@
+[
+  {
+    "id": "mc-sar-001",
+    "slug": "kanchipuram-pure-zari-silk-saree",
+    "name": "Kanchipuram Pure Zari Handloom Silk Saree",
+    "nameTa": "காஞ்சிபுரம் தூய ஜரி கைத்தறி பட்டு புடவை",
+    "category": "sarees",
+    "price": 18999,
+    "discountPrice": 14999,
+    "sizes": ["Free Size"],
+    "colors": [
+      { "name": "Crimson Red", "nameTa": "அரக்கு சிவப்பு", "hex": "#7A1C28" },
+      { "name": "Temple Gold", "nameTa": "கோவில் தங்கம்", "hex": "#C9A24B" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Woven by master weavers of Kanchipuram using pure mulberry silk and certified gold zari. Features intricate temple borders (Korvai technique) and a grand pallu adorned with Mayil (peacock) and Yazhi motifs. Includes unstitched matching blouse fabric.",
+    "descriptionTa": "தூய மல்பெரி பட்டு மற்றும் சான்றளிக்கப்பட்ட தங்க ஜரியுடன் காஞ்சிபுரம் நெசவாளர்களால் நெய்யப்பட்டது. மயிலும் யாழியும் பொறிக்கப்பட்ட கம்பீரமான பல்லு.",
+    "fabric": "100% Pure Kanchipuram Silk with Silk Mark Certification and Gold Silver Zari",
+    "fabricTa": "100% தூய காஞ்சிபுரம் பட்டு, சில்க் மார்க் சான்றிதழ் பெற்றது",
+    "careInstructions": [
+      "Dry clean only by specialized saree cleaners",
+      "Store wrapped in pure cotton or muslin fabric",
+      "Change folds every 3 months to prevent crease marks",
+      "Iron on reverse with low silk setting under a damp cloth"
+    ],
+    "tags": ["Bridal", "Pure Silk", "Kanchipuram", "Heritage", "Festive"],
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "inStock": true,
+    "sku": "MC-SAR-001",
+    "rating": 4.9,
+    "reviewCount": 42
+  },
+  {
+    "id": "mc-sar-002",
+    "slug": "banarasi-katan-silk-brocade-saree",
+    "name": "Banarasi Katan Silk Floral Brocade Saree",
+    "nameTa": "பனாரசி காட்டன் சில்க் ப்ரோகேட் புடவை",
+    "category": "sarees",
+    "price": 16500,
+    "discountPrice": 12800,
+    "sizes": ["Free Size"],
+    "colors": [
+      { "name": "Midnight Royal Blue", "nameTa": "மயில் நீலம்", "hex": "#1B2A4A" },
+      { "name": "Deep Rani Pink", "nameTa": "ராணி இளஞ்சிவப்பு", "hex": "#A81E58" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Exquisite Banarasi Katan silk saree handwoven with dense kadwa floral jaal. The antique silver and gold zari threads lend a regal shimmer suitable for receptions and milestone celebrations.",
+    "descriptionTa": "கைத்தறி பனாரசி காட்டன் பட்டு புடவை, நேர்த்தியான வெள்ளி மற்றும் தங்க ஜரி மலர் வேலைப்பாடுகளுடன்.",
+    "fabric": "Handwoven Katan Pure Silk with Kadwa Weave Zari",
+    "fabricTa": "கைத்தறி காட்டன் பட்டு, கத்வா ஜரி வேலைப்பாடு",
+    "careInstructions": [
+      "Strictly dry clean only",
+      "Avoid direct perfume or water sprays on zari",
+      "Air dry in shade before storing in muslin"
+    ],
+    "tags": ["Banarasi", "Reception", "Katan Silk", "Festive"],
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "inStock": true,
+    "sku": "MC-SAR-002",
+    "rating": 4.8,
+    "reviewCount": 35
+  },
+  {
+    "id": "mc-sar-003",
+    "slug": "chanderi-handloom-tissue-saree",
+    "name": "Chanderi Handloom Gold Tissue Saree",
+    "nameTa": "சந்தேரி கைத்தறி கோல்ட் டிஷ்யூ புடவை",
+    "category": "sarees",
+    "price": 9999,
+    "discountPrice": 7999,
+    "sizes": ["Free Size"],
+    "colors": [
+      { "name": "Sage Green & Gold", "nameTa": "பச்சை & தங்கம்", "hex": "#768A76" },
+      { "name": "Rose Gold Blush", "nameTa": "ரோஸ் கோல்ட்", "hex": "#C98E7D" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Feather-light Chanderi tissue silk saree woven with fine gossamer threads. Radiates subtle metallic sheen with delicate meenakari hand-woven bootas throughout the body.",
+    "descriptionTa": "மென்மையான சந்தேரி டிஷ்யூ பட்டு புடவை, லேசான தங்க பளபளப்புடன் கூடியது.",
+    "fabric": "Chanderi Silk Cotton Tissue Blend",
+    "fabricTa": "சந்தேரி பட்டு பருத்தி கலவை",
+    "careInstructions": [
+      "Dry clean only",
+      "Steam iron on low setting only",
+      "Do not hang for prolonged periods"
+    ],
+    "tags": ["Chanderi", "Lightweight", "Cocktail", "Subtle Glamour"],
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "inStock": true,
+    "sku": "MC-SAR-003",
+    "rating": 4.7,
+    "reviewCount": 19
+  },
+  {
+    "id": "mc-sar-004",
+    "slug": "ethereal-organza-handpainted-saree",
+    "name": "Ethereal Organza Hand-Painted Floral Saree",
+    "nameTa": "கையால் ஓவியம் வரையப்பட்ட ஆர்கன்சா புடவை",
+    "category": "sarees",
+    "price": 8500,
+    "discountPrice": 6800,
+    "sizes": ["Free Size"],
+    "colors": [
+      { "name": "Powder Peach", "nameTa": "பீச் வண்ணம்", "hex": "#E8B4A2" },
+      { "name": "Ivory Pearl", "nameTa": "முத்து வெள்ளை", "hex": "#FAF7F2" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Crafted from sheer, crisp pure silk organza featuring custom hand-painted botanical blooms with delicate cut-dana and scalloped resham borders.",
+    "descriptionTa": "தூய ஆர்கன்சா பட்டு, பிரத்யேக கைவினை மலர் ஓவியங்கள் மற்றும் எம்பிராய்டரி பார்டர்.",
+    "fabric": "Pure Silk Sheer Organza",
+    "fabricTa": "தூய ஆர்கன்சா பட்டு",
+    "careInstructions": ["Gentle dry clean only", "Do not wring", "Store rolled in muslin"],
+    "tags": ["Organza", "Hand Painted", "Pastel", "Day Wedding"],
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "inStock": true,
+    "sku": "MC-SAR-004",
+    "rating": 4.9,
+    "reviewCount": 27
+  },
+  {
+    "id": "mc-kur-001",
+    "slug": "lucknowi-chikankari-silk-anarkali-set",
+    "name": "Handcrafted Lucknowi Chikankari Silk Anarkali Set",
+    "nameTa": "லக்னோவி சிகன்காரி பட்டு அனார்கலி செட்",
+    "category": "kurtis",
+    "price": 6999,
+    "discountPrice": 5499,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "colors": [
+      { "name": "Pastel Lilac", "nameTa": "இளஞ்சிவப்பு ஊதா", "hex": "#C8B6D6" },
+      { "name": "Ivory Gold", "nameTa": "முத்து தங்கம்", "hex": "#F3EFE6" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Authentic hand-embroidered Lucknowi Chikankari on pure Chanderi silk. Adorned with delicate mukaish dots, paired with a dyed palazzo and feather-weight organza dupatta.",
+    "descriptionTa": "நேர்த்தியான லக்னோவி சிகன்காரி வேலைப்பாடு கொண்ட அனார்கலி குர்தா, பலாசோ மற்றும் துப்பட்டா.",
+    "fabric": "Pure Chanderi Silk Kurta with Cotton Mulmul Lining",
+    "fabricTa": "தூய சந்தேரி பட்டு, மல்மல் பருத்தி லைனிங்",
+    "careInstructions": ["Dry clean recommended", "Gentle hand wash in cold water with mild detergent"],
+    "tags": ["Chikankari", "Anarkali", "Festive Wear", "Pastels"],
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "inStock": true,
+    "sku": "MC-KUR-001",
+    "rating": 4.8,
+    "reviewCount": 51
+  },
+  {
+    "id": "mc-kur-002",
+    "slug": "raw-silk-straight-kurta-pant-set",
+    "name": "Raw Silk Straight Kurta & Cigarette Pant Set",
+    "nameTa": "ரா சில்க் நேர் குர்தா & பேண்ட் செட்",
+    "category": "kurtis",
+    "price": 5200,
+    "discountPrice": 4199,
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": [
+      { "name": "Deep Wine Maroon", "nameTa": "மெரூன்", "hex": "#6B1E2E" },
+      { "name": "Emerald Green", "nameTa": "மரகத பச்சை", "hex": "#1B4D3E" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Rich structured raw silk straight-cut kurta featuring minimalist antique gold zari piping along the neckline and cuffs. Paired with tailored cigarette trousers with functional pockets.",
+    "descriptionTa": "கட்டமைக்கப்பட்ட ரா சில்க் குர்தா, தங்க ஜரி வேலைப்பாடு மற்றும் நேர்த்தியான பேண்ட்.",
+    "fabric": "Pure Raw Silk with Crepe Lining",
+    "fabricTa": "தூய ரா சில்க், கிரேப் லைனிங்",
+    "careInstructions": ["Dry clean only", "Do not bleach", "Warm iron on reverse"],
+    "tags": ["Office Festive", "Minimalist", "Raw Silk", "Pants Set"],
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "inStock": true,
+    "sku": "MC-KUR-002",
+    "rating": 4.7,
+    "reviewCount": 38
+  },
+  {
+    "id": "mc-kur-003",
+    "slug": "bandhani-flared-tunic-mirror-yoke",
+    "name": "Bandhani Flared Silk Tunic with Mirror Yoke",
+    "nameTa": "பாந்தனி பட்டு குர்தி, கண்ணாடி வேலைப்பாடு",
+    "category": "kurtis",
+    "price": 4500,
+    "discountPrice": 3600,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      { "name": "Mustard Yellow", "nameTa": "மஞ்சள்", "hex": "#D8A232" },
+      { "name": "Ruby Red", "nameTa": "ரூபி சிவப்பு", "hex": "#9B111E" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1566737236500-c8ac43014a67?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Traditional tie-dye Bandhani motifs on flowing georgette silk. Highlights a handcrafted real glass mirror yoke with playful tassel accents on the waist drawstring.",
+    "descriptionTa": "பாரம்பரிய பாந்தனி அச்சு, உண்மையான கண்ணாடி வேலைப்பாடு மற்றும் அழகிய டசல்கள் கொண்ட குர்தி.",
+    "fabric": "Georgette Silk with Cotton Voile Lining",
+    "fabricTa": "ஜார்ஜெட் பட்டு, பருத்தி லைனிங்",
+    "careInstructions": ["Dry clean for first two washes", "Cold hand wash thereafter"],
+    "tags": ["Bandhani", "Mirror Work", "Festive", "Boho Chic"],
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "inStock": true,
+    "sku": "MC-KUR-003",
+    "rating": 4.6,
+    "reviewCount": 22
+  },
+  {
+    "id": "mc-kur-004",
+    "slug": "angrakha-silk-wrap-kurti-dupatta",
+    "name": "Angrakha Silk Wrap Kurti with Organza Dupatta",
+    "nameTa": "அங்ரகா ஸ்டைல் பட்டு குர்தி & துப்பட்டா",
+    "category": "kurtis",
+    "price": 5800,
+    "discountPrice": 4799,
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colors": [
+      { "name": "Dusty Rose Pink", "nameTa": "ரோஜா இளஞ்சிவப்பு", "hex": "#B76E79" },
+      { "name": "Teal Blue", "nameTa": "நீலப்பச்சை", "hex": "#1B6B78" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Flattering Angrakha cross-over silhouette featuring hand-stitched gotta patti borders and handcrafted fabric latkans. Paired with a scalloped foil-print organza dupatta.",
+    "descriptionTa": "ராஜஸ்தானி அங்ரகா வடிவம் கொண்ட குர்தி, கோட்டா பட்டி வேலைப்பாடுகளுடன்.",
+    "fabric": "Tussar Silk with Cotton Lining",
+    "fabricTa": "தசர் பட்டு, பருத்தி லைனிங்",
+    "careInstructions": ["Dry clean only", "Store folded in breathable garment bag"],
+    "tags": ["Angrakha", "Wrap Style", "Tussar Silk", "Festive"],
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "inStock": true,
+    "sku": "MC-KUR-004",
+    "rating": 4.9,
+    "reviewCount": 44
+  },
+  {
+    "id": "mc-ind-001",
+    "slug": "predraped-crepe-saree-gown-crystal-belt",
+    "name": "Pre-Draped Silk Crepe Saree Gown with Crystal Belt",
+    "nameTa": "ரெடிமேட் சில்க் கிரேப் புடவை கவுன்",
+    "category": "indo-western",
+    "price": 13999,
+    "discountPrice": 10999,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      { "name": "Wine Maroon", "nameTa": "மெரூன்", "hex": "#6B1E2E" },
+      { "name": "Charcoal Black", "nameTa": "கருப்பு", "hex": "#1A1A1A" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1566737236500-c8ac43014a67?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Effortless glamor in 30 seconds. A tailored pre-pleated drape gown that slips on like a dress, accompanied by a detachable hand-embellished Swarovski crystal waist belt.",
+    "descriptionTa": "30 வினாடிகளில் உடுத்தக்கூடிய ரெடிமேட் புடவை கவுன், அழகான கிரிஸ்டல் பெல்ட்டுடன்.",
+    "fabric": "Heavy Silk Crepe with Micro Spandex for flexible drape",
+    "fabricTa": "ஹெவி சில்க் கிரேப் துணி",
+    "careInstructions": ["Strictly dry clean only", "Do not iron directly over crystal belt"],
+    "tags": ["Pre Draped", "Saree Gown", "Cocktail", "Fusion", "Red Carpet"],
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "inStock": true,
+    "sku": "MC-IND-001",
+    "rating": 5.0,
+    "reviewCount": 63
+  },
+  {
+    "id": "mc-ind-002",
+    "slug": "asymmetric-organza-cape-bustier-set",
+    "name": "Asymmetric Organza Cape & Embellished Bustier Set",
+    "nameTa": "ஆர்கன்சா கேப் & பலாசோ செட்",
+    "category": "indo-western",
+    "price": 11500,
+    "discountPrice": 8999,
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": [
+      { "name": "Champagne Gold", "nameTa": "ஷாம்பெயின் தங்கம்", "hex": "#C9A24B" },
+      { "name": "Midnight Navy", "nameTa": "நேவி ப்ளூ", "hex": "#162238" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1566737236500-c8ac43014a67?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "3-piece Indo-Western set featuring a high-neck embroidered bustier, high-waisted pleated palazzo pants, and a dramatic floor-length sheer cape with gold zari tassels.",
+    "descriptionTa": "நவீன 3-பீஸ் இந்தோ-வெஸ்டர்ன் ஆடை, எம்பிராய்டரி வேலைப்பாடு கொண்ட கேப் மற்றும் பேண்ட்.",
+    "fabric": "Silk Georgette Palazzo & Pure Silk Organza Cape",
+    "fabricTa": "சில்க் ஜார்ஜெட் & ஆர்கன்சா பட்டு",
+    "careInstructions": ["Professional dry clean only", "Steam press only"],
+    "tags": ["Cape Set", "Fusion", "Sangeet", "Bridesmaid"],
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "inStock": true,
+    "sku": "MC-IND-002",
+    "rating": 4.8,
+    "reviewCount": 29
+  },
+  {
+    "id": "mc-ind-003",
+    "slug": "draped-dhoti-peplum-jacket-set",
+    "name": "Draped Dhoti Skirt & Embroidered Peplum Jacket Set",
+    "nameTa": "தோத்தி பாவாடை & பெப்ளம் ஜாக்கெட்",
+    "category": "indo-western",
+    "price": 9800,
+    "discountPrice": 7999,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      { "name": "Plum Royal Violet", "nameTa": "அடர் ஊதா", "hex": "#4A1230" },
+      { "name": "Teal Blue", "nameTa": "மயில் பச்சை", "hex": "#0D5C75" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1566737236500-c8ac43014a67?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "A chic silhouette featuring a pre-stitched satin dhoti skirt paired with a fitted raw silk peplum jacket embellished with cut-dana and resham thread embroidery.",
+    "descriptionTa": "நவீன தோத்தி பாவாடை மற்றும் பெப்ளம் ஜாக்கெட் ஆடை தொகுப்பு.",
+    "fabric": "Duchess Satin Skirt & Raw Silk Peplum",
+    "fabricTa": "சாட்டின் பாவாடை & ரா சில்க் ஜாக்கெட்",
+    "careInstructions": ["Dry clean only", "Store hanging in garment cover"],
+    "tags": ["Dhoti Set", "Peplum", "Fusion", "Mehendi"],
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "inStock": true,
+    "sku": "MC-IND-003",
+    "rating": 4.7,
+    "reviewCount": 31
+  },
+  {
+    "id": "mc-ind-004",
+    "slug": "pleated-silk-kaftan-dress-zari-border",
+    "name": "Pleated Silk Kaftan Dress with Zari Border",
+    "nameTa": "பட்டு காஃப்தான் ஆடை, ஜரி பார்டருடன்",
+    "category": "indo-western",
+    "price": 7200,
+    "discountPrice": 5799,
+    "sizes": ["Free Size"],
+    "colors": [
+      { "name": "Ivory Sand", "nameTa": "மணல் தந்தம்", "hex": "#FAF7F2" },
+      { "name": "Dusty Lavender", "nameTa": "லாவெண்டர்", "hex": "#9B8EA9" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Effortless resort-festive elegance. Flowing micro-pleated pure silk kaftan dress highlighted by hand-woven Kanchi gold zari borders and adjustable inner waist cinch.",
+    "descriptionTa": "ஆடம்பரமான பட்டு காஃப்தான் கவுன், காஞ்சிபுரம் தங்க ஜரி பார்டருடன்.",
+    "fabric": "Pure Silk Twill with Gold Weft",
+    "fabricTa": "தூய பட்டு, தங்க இழை நெசவு",
+    "careInstructions": ["Gentle dry clean only", "Do not steam over pleats"],
+    "tags": ["Kaftan", "Free Size", "Resort Festive", "Effortless"],
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "inStock": true,
+    "sku": "MC-IND-004",
+    "rating": 4.9,
+    "reviewCount": 18
+  },
+  {
+    "id": "mc-leh-001",
+    "slug": "royal-velvet-bridal-lehenga-zardozi",
+    "name": "Royal Velvet Bridal Lehenga with Zardozi Work",
+    "nameTa": "ராஜ வெல்வெட் மணப்பெண் லெஹங்கா, ஜர்தோசி வேலைப்பாடு",
+    "category": "lehengas",
+    "price": 34999,
+    "discountPrice": 27999,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      { "name": "Heritage Crimson Maroon", "nameTa": "மணப்பெண் மெரூன்", "hex": "#4A121E" },
+      { "name": "Royal Ruby Red", "nameTa": "ரூபி சிவப்பு", "hex": "#7A1C28" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1566737236500-c8ac43014a67?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "The crown jewel of Mayaara's bridal atelier. Handcrafted on micro-velvet using real metal wire Zardozi, dabka, and nakshi embroidery. Featuring a 16-kali voluminous flare with double can-can layers and twin dupattas (velvet shoulder + tissue head veil).",
+    "descriptionTa": "அதிசிறந்த மணப்பெண் லெஹங்கா. தூய வெல்வெட் துணியில் ஜர்தோசி மற்றும் நக்ஷி வேலைப்பாடுகளுடன் 16 கலிகள் கொண்ட பிரம்மாண்ட ஆடை.",
+    "fabric": "Micro Velvet Skirt with Satin Can-Can & Tissue Dupatta",
+    "fabricTa": "மைக்ரோ வெல்வெட், சாட்டின் கேன்-கேன் & டிஷ்யூ துப்பட்டா",
+    "careInstructions": [
+      "Strictly specialized bridal dry clean only",
+      "Store flat in the provided wooden cedar bridal trunk",
+      "Do not spray perfume directly onto metallic zardozi threads"
+    ],
+    "tags": ["Bridal", "Zardozi", "Velvet", "Heritage", "Couture"],
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "inStock": true,
+    "sku": "MC-LEH-001",
+    "rating": 5.0,
+    "reviewCount": 78
+  },
+  {
+    "id": "mc-leh-002",
+    "slug": "banarasi-brocade-panel-lehenga-gotta-patti",
+    "name": "Banarasi Brocade Panel Lehenga with Gotta Patti",
+    "nameTa": "பனாரசி ப்ரோகேட் லெஹங்கா, கோட்டா பட்டி வேலைப்பாடு",
+    "category": "lehengas",
+    "price": 22500,
+    "discountPrice": 18500,
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": [
+      { "name": "Turquoise Peacock Blue", "nameTa": "மயில் நீலம்", "hex": "#1B4D68" },
+      { "name": "Mustard Saffron Gold", "nameTa": "மஞ்சள் குங்குமம்", "hex": "#C9A24B" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1566737236500-c8ac43014a67?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Woven with multi-color Banarasi katan silk panels, alternating floral motifs, and broad Rajasthani gotta patti borders along the hemline. Light on weight, heavy on heritage.",
+    "descriptionTa": "பனாரசி காட்டன் பட்டு பேனல்கள் மற்றும் ராஜஸ்தானி கோட்டா பட்டி பார்டர்களுடன் கூடிய லெஹங்கா.",
+    "fabric": "Handwoven Banarasi Katan Silk with Organza Dupatta",
+    "fabricTa": "கைத்தறி பனாரசி காட்டன் பட்டு",
+    "careInstructions": ["Dry clean only", "Iron on low reverse side"],
+    "tags": ["Banarasi", "Panel Lehenga", "Engagement", "Mehendi"],
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "inStock": true,
+    "sku": "MC-LEH-002",
+    "rating": 4.9,
+    "reviewCount": 47
+  },
+  {
+    "id": "mc-leh-003",
+    "slug": "raw-silk-floral-embroidered-lehenga",
+    "name": "Handcrafted Raw Silk Floral Embroidered Lehenga",
+    "nameTa": "ரா சில்க் மலர் எம்பிராய்டரி லெஹங்கா",
+    "category": "lehengas",
+    "price": 24999,
+    "discountPrice": 19999,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      { "name": "Pastel Sage Mint", "nameTa": "புதினா பச்சை", "hex": "#8BA888" },
+      { "name": "Rose Blush Gold", "nameTa": "ரோஜா தங்கம்", "hex": "#D4A396" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1566737236500-c8ac43014a67?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Romantic English pastel palette meets traditional Indian craftsmanship. Pure raw silk base adorned with thread-embroidered cherry blossoms, pearl highlights, and scalloped net dupatta.",
+    "descriptionTa": "நேர்த்தியான மலர் எம்பிராய்டரி, முத்து வேலைப்பாடு மற்றும் வலை துப்பட்டா கொண்ட லெஹங்கா.",
+    "fabric": "Pure Raw Silk with Soft Cotton Shantoon Lining",
+    "fabricTa": "தூய ரா சில்க், சாண்டூன் லைனிங்",
+    "careInstructions": ["Dry clean only", "Store folded in muslin"],
+    "tags": ["Floral", "Pastel Bridal", "Day Wedding", "Reception"],
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "inStock": true,
+    "sku": "MC-LEH-003",
+    "rating": 4.8,
+    "reviewCount": 36
+  },
+  {
+    "id": "mc-leh-004",
+    "slug": "shimmer-mirror-work-sangeet-lehenga",
+    "name": "Shimmer Georgette Mirror-Work Sangeet Lehenga",
+    "nameTa": "மிரர் ஒர்க் சங்கீத் லெஹங்கா",
+    "category": "lehengas",
+    "price": 18500,
+    "discountPrice": 14500,
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colors": [
+      { "name": "Champagne Platinum", "nameTa": "பிளாட்டினம் தங்கம்", "hex": "#D8CFBC" },
+      { "name": "Midnight Emerald", "nameTa": "அடர் பச்சை", "hex": "#1B3B2B" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Designed for unforgettable dance nights and high-octane sangeet celebrations. Thousands of real mirror pieces and sequins hand-fastened on light, swishy georgette silk with a sweetheart blouse.",
+    "descriptionTa": "சங்கீத் கொண்டாட்டங்களுக்கான மிரர் மற்றும் சீக்வின் வேலைப்பாடு கொண்ட லெஹங்கா.",
+    "fabric": "Viscose Georgette with Foil Mirror Work",
+    "fabricTa": "விஸ்கோஸ் ஜார்ஜெட், கண்ணாடி வேலைப்பாடு",
+    "careInstructions": ["Gentle dry clean only", "Do not steam iron directly over mirrors"],
+    "tags": ["Sangeet", "Mirror Work", "Glamour", "Party Wear"],
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "inStock": true,
+    "sku": "MC-LEH-004",
+    "rating": 4.9,
+    "reviewCount": 54
+  }
+]
