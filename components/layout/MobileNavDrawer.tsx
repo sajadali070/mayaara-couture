@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useEffect } from 'react';
+import React, { useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useTranslation } from '@/lib/i18n/context';
@@ -25,7 +25,9 @@ interface MobileNavDrawerProps {
 export default function MobileNavDrawer({ isOpen, onClose }: MobileNavDrawerProps) {
   const pathname = usePathname();
   const { t, locale, toggleLocale } = useTranslation();
+  const prevPathname = useRef(pathname);
 
+  // Manage body scroll locking
   useEffect(() => {
     if (isOpen) {
       document.body.style.overflow = 'hidden';
@@ -37,10 +39,22 @@ export default function MobileNavDrawer({ isOpen, onClose }: MobileNavDrawerProp
     };
   }, [isOpen]);
 
-  // Close on route change
+  // Close ONLY when the route actually changes after navigation
   useEffect(() => {
-    onClose();
+    if (prevPathname.current !== pathname) {
+      prevPathname.current = pathname;
+      onClose();
+    }
   }, [pathname, onClose]);
+
+  // Handle ESC key
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') onClose();
+    };
+    if (isOpen) window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [isOpen, onClose]);
 
   if (!isOpen) return null;
 
@@ -48,13 +62,13 @@ export default function MobileNavDrawer({ isOpen, onClose }: MobileNavDrawerProp
     <div className="fixed inset-0 z-50 lg:hidden animate-fade-in">
       {/* Backdrop */}
       <div
-        className="fixed inset-0 bg-charcoal-900/60 backdrop-blur-sm"
+        className="fixed inset-0 bg-charcoal-900/60 backdrop-blur-sm transition-opacity"
         onClick={onClose}
         aria-hidden="true"
       />
 
       {/* Drawer content */}
-      <div className="fixed inset-y-0 left-0 w-full max-w-xs bg-ivory-50 shadow-2xl flex flex-col justify-between overflow-y-auto border-r border-gold-500/20 animate-slide-up">
+      <div className="relative z-10 w-full max-w-xs h-full bg-ivory-50 shadow-2xl flex flex-col justify-between overflow-y-auto border-r border-gold-500/20 animate-slide-up">
         {/* Top Header */}
         <div>
           <div className="p-5 border-b border-ivory-200 flex items-center justify-between">

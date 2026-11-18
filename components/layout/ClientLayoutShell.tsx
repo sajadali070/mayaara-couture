@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useCallback } from 'react';
 import AnnouncementBar from './AnnouncementBar';
 import Header from './Header';
 import MobileNavDrawer from './MobileNavDrawer';
@@ -15,13 +15,21 @@ export default function ClientLayoutShell({
 }) {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
+  const handleOpenMobileMenu = useCallback(() => {
+    setIsMobileMenuOpen(true);
+  }, []);
+
+  const handleCloseMobileMenu = useCallback(() => {
+    setIsMobileMenuOpen(false);
+  }, []);
+
   return (
     <>
       <AnnouncementBar />
-      <Header onOpenMobileMenu={() => setIsMobileMenuOpen(true)} />
+      <Header onOpenMobileMenu={handleOpenMobileMenu} />
       <MobileNavDrawer
         isOpen={isMobileMenuOpen}
-        onClose={() => setIsMobileMenuOpen(false)}
+        onClose={handleCloseMobileMenu}
       />
       <CartDrawer />
       <main className="min-h-screen">{children}</main>
